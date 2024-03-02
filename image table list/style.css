@@ -1,0 +1,27 @@
+body{
+  background-color: black;
+  
+}
+h1
+{
+    color: aqua;
+}
+p
+{
+    color: white;
+}
+table
+{
+color: white;
+text-align: center;
+width: 15cm;
+height: 5cm;
+}
+th
+{
+    border-style: solid;
+}
+td
+{
+    border-style: solid;
+}
