@@ -1,3 +1,4 @@
 # WEB-DEV
-This is the git for WEB development codes \n.
+This is the git for WEB development codes.
+
 Created By- Aarush Rastogi
